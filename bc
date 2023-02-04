@@ -1,0 +1,11 @@
+Lab01-05:(02)
+malware 
+file: 
+C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\ConvertToPDFShellExtension_x64.dll
+C:\Users\hunter\AppData\Roaming\ELP84P\System
+lab06-10:
+malware : trojan
+file : C:\WINDOWS\SYSWOW64\TRNSRUN.EXE
+Registry Key: 
+Trojan.Emotet, HKLM\SYSTEM\CURRENTCONTROLSET\SERVICES\trnsrun
+lab16-20:
