@@ -18,3 +18,14 @@ Trojan.Emotet, HKLM\SYSTEM\CURRENTCONTROLSET\SERVICES\trnsrun
 (09)
 webshell
 lab16-20:
+(16)
+malware:spyware
+Registry Key:
+Spyware.PasswordStealer.Generic, HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\SCHEDULE\TASKCACHE\TREE\Microsoft\Windows\Microsoft Windows Defender
+Spyware.PasswordStealer.Generic, HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\SCHEDULE\TASKCACHE\TASKS\{84EF0D98-72B6-425F-8DA5-B07188C14D02}
+Spyware.PasswordStealer.Generic, HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\SCHEDULE\TASKCACHE\LOGON\{84EF0D98-72B6-425F-8DA5-B07188C14D02}
+File:
+Spyware.PasswordStealer.Generic, C:\WINDOWS\SYSTEM32\TASKS\Microsoft\Windows\Microsoft Windows Defender
+Spyware.PasswordStealer.Generic, C:\USERS\PUBLIC\REGASM.EXE
+(18)
+webshell
